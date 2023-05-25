@@ -6,7 +6,7 @@ import Hero from './Hero'
 import Footer from './Footer'
 import  Business  from './Business'
 import styles from '../style'
-import NavBar from './Navbar'
+import NavBar from './NavBar'
 import Stats from './Stats'
 import Good from './Good'
 

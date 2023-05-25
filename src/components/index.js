@@ -1,4 +1,4 @@
-import Navbar from "./Navbar";
+import NavBar from "./NavBar";
 
 import Business from "./Business";
 
@@ -7,7 +7,7 @@ import Footer from "./Footer";
 import Hero from "./Hero";
 
 export {
-  Navbar,
+  NavBar,
 
   Business,
   Stats,
